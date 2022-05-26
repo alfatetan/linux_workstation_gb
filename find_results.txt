@@ -1,0 +1,118 @@
+/System/Volumes/Data/Users/sr/Projects/GeekBrainsAI/python_basics/lesson2.ipynb
+/System/Volumes/Data/Users/sr/Projects/GeekBrainsAI/python_basics/lesson3.ipynb
+/System/Volumes/Data/Users/sr/Projects/GeekBrainsAI/python_basics/lesson1.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6056b94/SGff.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6056b94/6YpK.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-3aeba6d5/3tM5.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-3aeba6d5/k2l1.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/52Qr.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/IIBp.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/oajv.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/HiQ6.ipynb
+/System/Volumes/Data/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/Ud4y.ipynb
+/System/Volumes/Data/Users/sr/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/pythonFiles/Notebooks intro.ipynb
+/System/Volumes/Data/Users/sr/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/Notebooks intro.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/UnicodePy3.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/JupyterWidgets.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Other Comms.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/SVG.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Disable Stdin.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Autokill.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/update-display-id.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Inline Image.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Interrupt.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Factorials.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Check History in Memory.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Output.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Clear Output.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Parallel Execute A.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Empty Cell.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Execution with Cell Tag.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Parallel Execute B.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Unicode.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/HelloWorld.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Sleep1s.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Error.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Exceptions.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/preprocessors/tests/files/MixedMarkdown.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/preprocessors/tests/files/HelloWorld.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/notebook2.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/svg.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/notebook3.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/prompt_numbers.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/pngmetadata.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/rawtest.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/attachment.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook2.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook3_with_errors.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook4_jpeg.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook1.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook_tags.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/markdown_display_priority.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Unexecuted_widget_2.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook5_embed_images.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Unexecuted_widget.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Widget_List.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook_jl.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/latex-linked-image.ipynb
+/System/Volumes/Data/opt/homebrew/lib/python3.9/site-packages/notebook/bundler/tests/resources/empty.ipynb
+/Users/sr/Projects/GeekBrainsAI/python_basics/lesson2.ipynb
+/Users/sr/Projects/GeekBrainsAI/python_basics/lesson3.ipynb
+/Users/sr/Projects/GeekBrainsAI/python_basics/lesson1.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6056b94/SGff.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6056b94/6YpK.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-3aeba6d5/3tM5.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-3aeba6d5/k2l1.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/52Qr.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/IIBp.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/oajv.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/HiQ6.ipynb
+/Users/sr/Library/Application Support/Code/User/History/-6fd1e216/Ud4y.ipynb
+/Users/sr/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/pythonFiles/Notebooks intro.ipynb
+/Users/sr/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/Notebooks intro.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/UnicodePy3.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/JupyterWidgets.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Other Comms.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/SVG.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Disable Stdin.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Autokill.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/update-display-id.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Inline Image.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Interrupt.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Factorials.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Check History in Memory.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Output.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Clear Output.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Parallel Execute A.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Empty Cell.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Execution with Cell Tag.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Parallel Execute B.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Unicode.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/HelloWorld.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Sleep1s.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Error.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbclient/tests/files/Skip Exceptions.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/preprocessors/tests/files/MixedMarkdown.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/preprocessors/tests/files/HelloWorld.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/notebook2.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/svg.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/notebook3.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/prompt_numbers.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/pngmetadata.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/rawtest.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/exporters/tests/files/attachment.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook2.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook3_with_errors.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook4_jpeg.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook1.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook_tags.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/markdown_display_priority.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Unexecuted_widget_2.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook5_embed_images.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Unexecuted_widget.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/Widget_List.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/notebook_jl.ipynb
+/opt/homebrew/lib/python3.9/site-packages/nbconvert/tests/files/latex-linked-image.ipynb
+/opt/homebrew/lib/python3.9/site-packages/notebook/bundler/tests/resources/empty.ipynb

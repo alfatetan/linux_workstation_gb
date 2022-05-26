@@ -1,0 +1,4 @@
+ubuntu@ip-172-31-29-57:~$ echo > lesson3_etc_files.txt && cat /etc/* 1>lesson3_etc_files.txt 2>lesson3_etc_files_err.txt
+
+Командой, которую ввёл, получил два файла на сервере. Перенёс их сюда с сервера AWS для наглядности (посмотрите lesson3_etc_files.txt & lesson3_etc_files_err.txt).
+

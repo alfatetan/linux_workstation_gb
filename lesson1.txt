@@ -1,0 +1,29 @@
+ubuntu@ip-172-31-29-57:~$ echo "*** uname --all output ***" && uname --all && echo "*** hostnamectl output ***" && hostnamectl && echo "*** /etc/os-release file ***" && cat /etc/os-release 
+*** uname --all output ***
+Linux ip-172-31-29-57 5.15.0-1004-aws #6-Ubuntu SMP Thu Mar 31 09:44:20 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+*** hostnamectl output ***
+ Static hostname: ip-172-31-29-57
+       Icon name: computer-vm
+         Chassis: vm
+      Machine ID: bd434a692420432995d3bb96176ed352
+         Boot ID: 48452fb873854dfb935f12509711e479
+  Virtualization: xen
+Operating System: Ubuntu 22.04 LTS                
+          Kernel: Linux 5.15.0-1004-aws
+    Architecture: x86-64
+ Hardware Vendor: Xen
+  Hardware Model: HVM domU
+*** /etc/os-release file ***
+PRETTY_NAME="Ubuntu 22.04 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04 (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+ubuntu@ip-172-31-29-57:~$ 

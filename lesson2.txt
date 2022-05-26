@@ -1,0 +1,47 @@
+ubuntu@ip-172-31-29-57:~$ cd ~ && mkdir students mentors && touch students/students_list.txt mentors/mentors_list.txt
+ubuntu@ip-172-31-29-57:~$ tree
+.
+├── mentors
+│   └── mentors_list.txt
+└── students
+    └── students_list.txt
+
+2 directories, 2 files
+ubuntu@ip-172-31-29-57:~$ vim students/students_list.txt 
+ubuntu@ip-172-31-29-57:~$ vim mentors/mentors_list.txt 
+ubuntu@ip-172-31-29-57:~$ cat students/students_list.txt 
+Sergei Riabov
+
+ubuntu@ip-172-31-29-57:~$ cat mentors/mentors_list.txt 
+Kirill Ivanov
+Natalia Solonina
+ubuntu@ip-172-31-29-57:~$ mv ./mentors/mentors_list.txt ./students/
+ubuntu@ip-172-31-29-57:~$ tree
+.
+├── mentors
+└── students
+    ├── mentors_list.txt
+    └── students_list.txt
+
+2 directories, 2 files
+ubuntu@ip-172-31-29-57:~$ rm -r mentors/
+ubuntu@ip-172-31-29-57:~$ mv -r students/ students_and_mentors
+mv: invalid option -- 'r'
+Try 'mv --help' for more information.
+ubuntu@ip-172-31-29-57:~$ mv students/ students_and_mentors
+ubuntu@ip-172-31-29-57:~$ tree
+.
+└── students_and_mentors
+    ├── mentors_list.txt
+    └── students_list.txt
+
+1 directory, 2 files
+ubuntu@ip-172-31-29-57:~$ rm -r students_and_mentors/
+ubuntu@ip-172-31-29-57:~$ tree
+.
+
+0 directories, 0 files
+ubuntu@ip-172-31-29-57:~$ 
+
+**** По поводу 7го задания - уже выполнено. Я на маке закинул файл первичного ключа в папку ~/.ssh, поставил у него права chmod 400 и подцепился через ssh ubuntu@address_my_VPS
+Создавал сервер на AWS, так как с ним придётся много работать. Нужно же с чего-то его начинать осваивать :)
